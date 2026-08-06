@@ -15,7 +15,7 @@ body {
 }
 
 .intro {
-    background-color: rgb(143, 99, 224);
+    background-color: rgb(175, 132, 255);
     border: 3px solid #1a1b66;
     padding: 20px;
     margin: 30px auto;
@@ -35,6 +35,13 @@ h1 {
 }   
 h2 {
     color: #4420e4;
+    text-align: center;
+    font-size: 1.5em;
+    margin-bottom: 20px;
+}
+.hobby {
+
+    color: #2d149b;
     text-align: center;
     font-size: 1.5em;
     margin-bottom: 20px;
