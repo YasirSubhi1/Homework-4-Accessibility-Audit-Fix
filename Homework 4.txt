@@ -1,0 +1,31 @@
+Issue 1: Missing alternative text
+
+Element: Two images
+
+Why it matters: missing alt text means a screen reader user gets no information about this image
+
+Fix: Added "alt" text to both
+
+
+
+Issue 2: Very low contrast
+
+Element: Page text
+
+Why it matters: Some users may have difficulty reading the text
+
+Fix: Changed the color to improve visibility
+
+
+
+Issue 3: Possible heading
+
+Element: Heading
+
+Why it matters: Screen reader users may have trouble navigating the page.
+
+Fix: Changed it to the correct heading tag <h2>
+
+
+
+I forgot to add why each issue matters in the submission text box, so I added them here
