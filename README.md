@@ -24,7 +24,8 @@ Element: Heading
 
 Why it matters: Screen reader users may have trouble navigating the page.
 
-Fix: Changed it to the correct heading tag <h2>
-
+Fix: Changed it to the correct heading tag <h2
 
 I forgot to add why each issue matters in the submission box, so I added them here
+
+                                             
